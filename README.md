@@ -18,7 +18,7 @@ Turn to the site:"https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/m
 For example:https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/master/KNN.ipynb can view the code in KNN.ipynb
 
 
-And this repository is a experiment of using github and git
+
 
 
 
