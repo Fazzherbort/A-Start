@@ -16,6 +16,7 @@ Otherwise,if it is hard to load the code in github
 Turn to the site:"https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/master/" + the name of ipynb file
 
 For example:https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/master/KNN.ipynb can view the code in KNN.ipynb
+<<<<<<< HEAD
 
 And this repository is a experiment of using github and git
 
@@ -23,3 +24,5 @@ And this repository is a experiment of using github and git
 
 
 
+=======
+>>>>>>> 2a442041ce59db7a82c158c51f960db628f3894d
