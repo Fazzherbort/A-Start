@@ -17,12 +17,3 @@ Turn to the site:"https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/m
 
 For example:https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/master/KNN.ipynb can view the code in KNN.ipynb
 
-A experiment
-
-
-
-
-
-
-
-
