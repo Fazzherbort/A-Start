@@ -1,17 +1,8 @@
-# A-Start
-It will be the first repository i start in GIthub.
+The project is about competetion of CCF BDIC.
 
-I am trying to recard this year's experience in learning data digit.
+The code is programed in ipython.
 
-The first competetion i get in is CCF BDIC.
-
-I decide to begin my Kaggler road,too.
-
-Add it when my project gets expension.
-
-The code now is uploaded,which is programed in ipython.
-
-Otherwise,if it is hard to load the code in github
+By the way, if it is hard to load the code in github
 
 Turn to the site:"https://nbviewer.jupyter.org/github/FizzHerbert/A-Start/blob/master/" + the name of ipynb file
 
